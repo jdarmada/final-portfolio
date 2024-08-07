@@ -56,9 +56,17 @@ export const experiencesData = [
     title: "Full-Stack Engineer",
     location: "San Francisco, CA",
     description:
-      "I'm now a full-stack engineer contributing to an open-source product called AnguLens.",
+      "Lead Engineer for an open-source developer tool called AnguLens.",
     icon: React.createElement(FaReact),
     date: "2023 - Present",
+  },
+  {
+    title: "Front-End Engineer - Indema",
+    location: "Remote",
+    description:
+      "I'm now a Front-End Engineer for a company called Indema. I work with designers to create components and pages for their web app using React.",
+    icon: React.createElement(FaReact),
+    date: "2024 - Present",
   },
 ] as const;
 
